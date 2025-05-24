@@ -4,4 +4,4 @@
 
 Control Flow Graph
 
-![Lab2FlowDiagram](https://github.com/user-attachments/assets/65802bfd-076a-42a6-a97d-d3918f4ab4a6)
+![Control Flow Graph  drawio](https://github.com/user-attachments/assets/59fd39a4-ce81-4524-9135-dfa8c67f816c)
